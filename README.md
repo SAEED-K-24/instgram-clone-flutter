@@ -1,4 +1,4 @@
-# flutter_application_task
+# instgram_clone_flutter
 
 A new Flutter project.
 
